@@ -32,8 +32,6 @@
 - [Tech Stack](#tech-stack)
 - [Sections Overview](#sections-overview)
 - [Customization Guide](#customization-guide)
-- [Deployment](#deployment)
-- [Performance](#performance)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Author](#author)
@@ -61,10 +59,7 @@ In a world flooded with over-engineered portfolio templates, I wanted something 
 
 ## 🌐 Live Demo
 
-> 🔗 **[View Live Portfolio →](https://sa7716834-ux.github.io/Portfolio-Maker/Portfolio.html)**
-
-_Deployed via GitHub Pages — always up to date with the latest commit on `main`._
-
+> 🔗 **[View Live Portfolio →](https://portfolio-maker-gules.vercel.app/)**
 ---
 
 ## ✨ Features
@@ -256,58 +251,11 @@ Find the CSS variables at the top of the `<style>` section:
   --background-color: #ffffff;
   --text-color: #333333;
 }
-```
-
-Change these values to match your personal brand colors.
-
----
-
-## 🚢 Deployment
-
-### 🟢 GitHub Pages (Recommended — Free)
-
-1. Push your code to GitHub (already done ✅)
-2. Go to your repository on GitHub
-3. Click **Settings** → **Pages**
-4. Under **Source**, select `main` branch
-5. Click **Save**
-6. Your portfolio is live at:
 
 ```
-https://sa7716834-ux.github.io/Portfolio-Maker/Portfolio.html
-```
+https://portfolio-maker-gules.vercel.app/```
 
 > ⚡ Changes go live within 1-2 minutes of pushing to `main`.
-
----
-
-### 🔵 Netlify (Drag & Drop — Free)
-
-1. Go to [netlify.com](https://netlify.com) and sign up
-2. Drag your project folder into the Netlify dashboard
-3. Done! You get a live URL instantly.
-
----
-
-### 🟣 Vercel (Free)
-
-```bash
-# Install Vercel CLI
-npm install -g vercel
-
-# Deploy from project folder
-vercel
-```
-
----
-
-### 🟠 Custom Domain (Optional)
-
-If you own a domain (e.g., `syedsaifali.com`):
-
-1. In GitHub Pages settings, add your custom domain
-2. Update your domain DNS to point to GitHub Pages
-3. Enable **Enforce HTTPS**
 
 ---
 
@@ -365,9 +313,9 @@ Please make sure to update tests and documentation as appropriate.
 
 **Syed Saif Ali**
 
-- 🐙 GitHub: [@sa7716834-ux](https://github.com/sa7716834-ux)
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 📧 Email: *(add your email here)*
+- 🐙 GitHub: [@sa7716834-ux](https://github.com/syedsaif-devx)
+- 💼 LinkedIn: *(www.linkedin.com/in/syedsaif-devx)*
+- 📧 Email: *(sa7716834@gmail.com)*
 
 ---
 
@@ -406,7 +354,7 @@ copies or substantial portions of the Software.
 
 **⭐ If you found this useful, please consider giving it a star on GitHub! ⭐**
 
-Made with ❤️ by **Syed Saif Ali** — Pakistan 🇵🇰
+Made by **Syed Saif Ali** — Pakistan 🇵🇰
 
 </div>
 =======
@@ -437,5 +385,5 @@ Portfolio/
 Then go to repo **Settings → Pages → Deploy from main branch**
 
 ---
-MIT License — built with ❤️ by Syed Saif Ali
+MIT License — built by Syed Saif Ali
 >>>>>>> df76a46602b031ee904e7d246145ef746a7191ec
