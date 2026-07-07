@@ -16,7 +16,7 @@
 
 <br/>
 
-[🌐 Live Demo](#live-demo) • [✨ Features](#features) • [📸 Screenshots](#screenshots) • [🚀 Quick Start](#quick-start) • [🛠️ Tech Stack](#tech-stack) • [📁 File Structure](#file-structure) • [🤝 Contributing](#contributing)
+[🌐 Live Demo](#live-demo) • [✨ Features](#features) • [🚀 Quick Start](#quick-start) • [🛠️ Tech Stack](#tech-stack) • [📁 File Structure](#file-structure) • [🤝 Contributing](#contributing)
 
 </div>
 
@@ -27,7 +27,6 @@
 - [About the Project](#about-the-project)
 - [Live Demo](#live-demo)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Quick Start](#quick-start)
 - [File Structure](#file-structure)
 - [Tech Stack](#tech-stack)
@@ -86,16 +85,6 @@ _Deployed via GitHub Pages — always up to date with the latest commit on `main
 - 📊 **Skills Section** — visual representation of your technical skills
 - 📬 **Contact Section** — easy way for recruiters and clients to reach you
 - 🏆 **About Me Section** — tell your story professionally
-
----
-
-## 📸 Screenshots
-
-> _Screenshots coming soon — deploy the project and add yours here!_
-
-| Desktop View | Mobile View |
-|:---:|:---:|
-| _(Add screenshot)_ | _(Add screenshot)_ |
 
 ---
 
